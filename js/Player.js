@@ -1,7 +1,7 @@
 class Player {
   constructor(){
     this.name = null;
-    this.index = 1;
+    this.index = null;
     this.distance = 0;
   }
 
